@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**joao1224/joao1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img src ="https://github-readme-stats.vercel.app/api?username=joao1224&show_icons=true&theme=radical">
+</div>
 
-Here are some ideas to get you started:
+<div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joao1224&layout=compact">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+<div>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-59467123a/">
+    <img height = "80em" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    </a>
+</div>
